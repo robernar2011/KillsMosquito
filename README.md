@@ -2,7 +2,7 @@
 
 Welcome! 
 
-This repository contains a RESPONSIVE Spotify clone home page created for educational purposes to fix JavaScript learning.
+This repository contains a sensational game developed to train knowledge of programming logic and Javascript.
 
 This project was developed during the [Complete Web Development](https://www.udemy.com/course/web-completo/) course (Section Javascript) held at UDEMY.
 
